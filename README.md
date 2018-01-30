@@ -83,3 +83,5 @@ region as a pilot study.
 In the South Asia region, 49% of the terrorist attacks are unclaimed. So, implementing our model could reduce the rate of unclaimed attacks by 6.89%. It could also provide an insight to Law Enforcement as to who can be the culprit of a terror attack. 
 
 Likewise, this model could be used to study the attack patterns of terror activities in other specific regions or specific terror groups.
+
+Website Link : https://gtaanalysis.000webhostapp.com/
