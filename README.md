@@ -66,27 +66,20 @@ Codebook, and include, whenever possible:
 
 # Executive Summary
 
-Since 2004, the global terrorist attacks have increased exponentially (Figure 1). We cannot deny that they are obviously dangerous threats 
-to civilians, governments, and societies (Figure 2). Therefore, we study the historical data from The Global Terrorism Database (GTD) in order 
-to understand the patterns of the terrorist attacks. Our study could potentially identify the terrorist groups based on their attack 
-characteristics and determine success rate of their attacks in order to avoid or reduce the degree of destruction in the future.
+Since 2004, the global terrorist attacks have increased exponentially. 
+We cannot deny that they are obviously dangerous threats to civilians, governments, and societies. Therefore, we study the historical data from The Global Terrorism Database (GTD) in order to understand the patterns of the terrorist attacks. 
+Our study could potentially identify the terrorist groups based on their attack characteristics and determine success rate of their attacks in order to avoid or reduce the degree of destruction in the future.
 
 In the event of an attack, determining if an attack is successful could help governments take calculated measures against the attackers.
 Also, this could help them manage the Law and Order situation better. With our final model using random forest technique, we are able to 
 predict whether an attack would be successful or not with 80.7% accuracy. 
-According to our model, the top-five variables that are important to classify successful attacks are nwound (the number of people got injured 
-by the attack), nkill (the number of people got killed by the attack), attack type, day of a month, and target type. 
+According to our model, the top-five variables that are important to classify successful attacks are nwound (the number of people got injured by the attack), nkill (the number of people got killed by the attack), attack type, day of a month, and target type. 
 
-We believe that if we did further studies on this topic and found the effective method to protect people from an attack, the rate of successful 
-attacks would be decreased substantially. Finally, our pilot model is a starting point of the study to help governments and related organizations 
-identify the important factors to protect civilians from terror attacks.
+We believe that if we did further studies on this topic and found the effective method to protect people from an attack, the rate of successful attacks would be decreased substantially. Finally, our pilot model is a starting point of the study to help governments and related organizations identify the important factors to protect civilians from terror attacks.
 
 Another study is that how we could identify the terrorist group behind the attacks in a specific region. Our study was scoped down to South Asia
 region as a pilot study. 
 
-In the South Asia region, 49% of the terrorist attacks are unclaimed (Figure 3). So, implementing our model could reduce the rate of unclaimed attacks
-by 6.89%. It could also provide an insight to Law Enforcement as to who can be the culprit of a terror attack. 
+In the South Asia region, 49% of the terrorist attacks are unclaimed. So, implementing our model could reduce the rate of unclaimed attacks by 6.89%. It could also provide an insight to Law Enforcement as to who can be the culprit of a terror attack. 
 
 Likewise, this model could be used to study the attack patterns of terror activities in other specific regions or specific terror groups.
-
-
